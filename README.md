@@ -75,7 +75,7 @@ Use the provided data and visualizations to:
 - Explore the geographical distribution of EVs and the impact of CAFV incentives.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/rithvikreddy93/Poject-on-power-BI/commit/45b6468b23cfe97d377a5cf3c1942bc1d90ec472) file for more details.
 
 ---
 
